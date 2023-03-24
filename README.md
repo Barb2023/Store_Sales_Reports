@@ -1,19 +1,21 @@
-# Store_Sales_Reports
+# Store_Sales_Reports #
+
 In this project I will be using Python(EDA) and Power BI to show several information OF THE Store orders made in four consecutive years from different countries.
+
 ---
 
-**Introduction: **
+# Introduction #
 
 * The dataset will include Products,Sales, Profit, Country, Region and all sales order details for reporting.
 
 ---
-**Use : **
+# Use #
 
-* The data used will have datas to be used for the managements decision in which store they are performing well and those that are not performing well based on their profits.
+* The data used will be used for the managements decision in which store they are performing well and those that are not performing well based on their profits.
 
 ---
 
-**Objective or Concept :**
+# Objective or Concept #
 
 To check out the top performer products and countries and the factors affecting the performance. 
 
@@ -25,16 +27,19 @@ To check out the top performer products and countries and the factors affecting 
 * Profit Analysis
 
 ---
-**Problem Statement:**
+# Problem Statement #
 
-**Data :** 
+
+---
+
+# Data #
 
 _Store orders per Country_
   * EDA
   * Power BI report link
 
 ---
-**Scope**
+# Scope #
 
 * Technical
 * Business
