@@ -27,9 +27,15 @@ To check out the top performer products and countries and the factors affecting 
 ---
 **Problem Statement:**
 
-**Data :** Store orders per Country
+**Data :** 
+
+_Store orders per Country_
+  * EDA
+  * Power BI report link
 
 ---
-Scope
-Technical
-Business
+**Scope**
+
+* Technical
+* Business
+
