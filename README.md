@@ -1,6 +1,6 @@
 # Store_Sales_Reports #
 
-In this project I will be using Python(EDA) and Power BI to show several information OF THE Store orders made in four consecutive years from different countries.
+In this project I will be using Python(EDA) and Power BI to show several information of the Store orders made in four consecutive years from different countries.
 
 ---
 
@@ -17,8 +17,7 @@ In this project I will be using Python(EDA) and Power BI to show several informa
 
 # Objective or Concept #
 
-To check out the top performer products and countries and the factors affecting the performance. 
-
+* To check out the top performer products and countries and the factors affecting the performance. 
 * Analyzing top 10 consumer countries. Analyzing top 10 counsumer countries orders as per categories and sub-categories
 * Analyzing the top products of the Top 10 countries as per Coustomer Segment
 * Growth Over the years
