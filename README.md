@@ -27,36 +27,37 @@ Using the dataset, we will also do an EDA and try to build a Regression model to
 
 # 🎯 Objective #
 
-* To check out the top performer products and countries and the factors affecting the performance. 
-* Analyzing top 10 consumer countries. Analyzing top 10 counsumer countries orders as per categories and sub-categories
-* Analyzing the top products of the Top 10 countries as per Coustomer Segment
-* Growth Over the years
-* sales vs. profits
-* Show the customer segment in each market
-* Profit Analysis
+* To investigate the top performing products and countries, as well as the factors influencing performance.
+* Analyzing top 10 consumer countries. 
+* Analyzing top 10 counsumer countries orders as per categories and sub-categories.
+* Analyzing the top products of the Top 10 countries as per Coustomer Segment.
+* Growth Over the years.
+* sales vs. profits.
+* Show the customer segment in each market.
+* Profit Analysis.
 
 ---
 
 # 🎯 Scope #
 
 1. Analysis of various business entities like :
-    - Customer Analysis
-    - Sales Analysis
-    - Order Analysis
+    - Customer Analysis.
+    - Sales Analysis.
+    - Order Analysis.
     - Product Analysis etc.
     
 2. Analysis of the above entities across dimensions like :
-    - Time Hierarchy
-    - Geographical Hierarchy
+    - Time Hierarchy.
+    - Geographical Hierarchy.
     - Product Hierarchy etc.
     
 3. Analysis of KPIs (Key Performance Indicators) like :
-    -  Sales
-    - Profits
-    - Customer Retention Rate
-    - On-Time Delivery
-    - Return Rate
-    - Inventory Turns
+    -  Sales.
+    - Profits.
+    - Customer Retention Rate.
+    - On-Time Delivery.
+    - Return Rate.
+    - Inventory Turns.
     - Days in Inventory etc.
 
 
