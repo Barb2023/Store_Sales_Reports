@@ -1,4 +1,4 @@
-<center><img src= "https://raw.githubusercontent.com/ashwinshetgaonkar/kaggle-kernel-images/main/trends.png" alt ="trends" style='width:600px;'></center><br>
+<center><img src= "https://www.roberthilllaw.com/wp-content/uploads/sites/1101645/2013/08/big-box-store.jpg" alt ="trends" style='width:600px;'></center><br>
 
 # Store_Sales_Reports #
 
