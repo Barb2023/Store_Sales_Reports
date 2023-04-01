@@ -1,3 +1,5 @@
+<center><img src= "https://raw.githubusercontent.com/ashwinshetgaonkar/kaggle-kernel-images/main/trends.png" alt ="trends" style='width:600px;'></center><br>
+
 # Store_Sales_Reports #
 
 In this project I will be using Python(EDA) and Power BI to show several information of the Store orders made in four consecutive years from different countries.
