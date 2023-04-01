@@ -1,7 +1,7 @@
 <p align="center"><img src= "https://www.roberthilllaw.com/wp-content/uploads/sites/1101645/2013/08/big-box-store.jpg" alt ="trends" style='width:600px;'></p>
 
 
-# 🎯 Superstores Sales Reports  #
+# 🎯 Superstores Sales Report  #
 
 
 In this project I will be using Python(EDA) and Power BI to show several information of the Store orders made in four consecutive years from different countries.
