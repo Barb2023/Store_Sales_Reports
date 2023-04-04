@@ -4,7 +4,7 @@
 # 🎯 Superstores Sales Report  #
 
 
-In this project I will be using Python(EDA) and Power BI to show several information of the Store orders made in four consecutive years from different countries.
+In this project I will be using Python (for EDA, predictive analysis) and Power BI to show several information of the Store orders made in four consecutive years from different countries.
 
 ---
 # 🎯 Context #
