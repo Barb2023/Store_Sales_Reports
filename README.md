@@ -51,13 +51,9 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
     - Product Hierarchy etc.
     
 3. Analysis of KPIs (Key Performance Indicators) like :
-    -  Sales.
+    - Sales.
     - Profits.
-    - Customer Retention Rate.
-    - On-Time Delivery.
-    - Return Rate.
-    - Inventory Turns.
-    - Days in Inventory etc.
+
 
 
 ---
