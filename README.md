@@ -26,6 +26,7 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
 
 # 🎯 Objective #
 
+* To clean the data.
 * To investigate the top performing products and countries, as well as the factors influencing performance.
 * Analyzing top 10 consumer countries. 
 * Analyzing top 10 counsumer countries orders as per categories and sub-categories.
