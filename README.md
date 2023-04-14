@@ -66,16 +66,15 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
    
    * Upon creating the dimensions I used some simple techniques in SQL and used case statements, and CTEs. I made sure that each dimension will have a unique Identifier or ID to be included in our Fact table which will only contain numbers. This will help us make a good star schema design.
    
+   
+      <p align="center"><img src= "https://github.com/Barb2023/Super-Stores/blob/main/PowerBI.gif" alt ="trends" style='width:600px;'></p>
+      
+   
  3. Visualization
     * I'm using Jupyter Notebook to create a simple Visualization that will show how to answer the objectives we aimed.
     * I also used power BI to have a more interactive report that shows the objectives we want to answer.
     
-    <p align="center"><img src= "https://clipchamp.com/watch/bzIDW5qlc6U" alt ="trends" style='width:600px;'></p>
-
-    
-    
-
-
+      <p align="center"><img src= "https://github.com/Barb2023/Super-Stores/blob/main/SQL%20.gif" alt ="trends" style='width:600px;'></p>
 
 ---
 
