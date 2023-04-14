@@ -56,6 +56,8 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
 1. Data Preparation
     *  This includes data cleansing. In this project the data was not that clean and to be able to have a good visual presentation and analysis we need to make sure we have a clean data in our database. 
     
+      <p align="center"><img src= "https://github.com/Barb2023/Super-Stores/blob/main/CSV%20UTF-8.jpg" alt ="trends" style='width:600px;'></p>
+      
     * I have encountered that the state column has a special character, and in order for me to fix it I have saved the csv file again and used utf-8 before importing it again to our database.
 
 2. Create Dimensions
