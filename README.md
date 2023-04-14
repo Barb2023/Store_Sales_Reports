@@ -126,5 +126,12 @@ SELECTOrder_ID
 * Superstore definition: https://www.merriam-webster.com/dictionary/superstore#:~:text=%3A%20a%20very%20large%20store%20often,variety%20of%20merchandise%20for%20sale
 * Superstores/Bigbox stores by country: https://en.wikipedia.org/wiki/List_of_superstores
 
+# 🎯 My Portfolio  #
+
+[Barb's Website](https://barb2023.github.io/)
+
+---
+[Linkedin](https://www.linkedin.com/in/barbie-francisco-73261947/)
+
 
 
