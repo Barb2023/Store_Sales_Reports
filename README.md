@@ -13,7 +13,7 @@ In this project I will be using Python(EDA) and Power BI to show several informa
 ---
 # Use #
 
-* The data used will be for the managements decision in which store they are performing well and those that are not performing well based on their profits.
+* The data used will be used for the managements decision in which store they are performing well and those that are not performing well based on their profits.
 
 ---
 
@@ -41,6 +41,8 @@ _Store orders per Country_
 
 
 ## .ipynb
+
+
 
 
 
