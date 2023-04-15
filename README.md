@@ -9,7 +9,7 @@ In this project I will be using Python (for EDA) and Power BI to show several in
 ---
 # 🎯 Context #
 
-A superstore is a very large store often offering a wide variety of merchandise for sale. Superstores typically charge anywhere from 15 to 45 percent less than their smaller counterparts. 
+A superstore is a very large store often offering a wide variety of merchandise for sale. 
 As the decision maker for a superstore company, we will give some insights into what works best to understand which products, regions, categories, and customer segments they should target or avoid.
 
 We will try to find out the weak areas and see where Superstores can make more profit.
