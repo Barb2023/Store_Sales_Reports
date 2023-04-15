@@ -61,7 +61,7 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
     * I have encountered that the state column has a special character, and in order for me to fix it I have saved the csv file again and used utf-8 before importing it again to our database.
 
 2. Create Dimensions
-    * As a rule, it would be best to create an appropriate dimension that follows the Dimensional Modeling Techniques by Kimbal. These guide helped me in creating a solid dimension for this project. 
+    * As a rule, it would be best to create an appropriate dimension that follows the Dimensional Modeling Techniques by Kimball. These guide helped me in creating a solid dimension for this project. 
     
    [Kimball Dimensional Modeling Technique] 
    (https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
