@@ -27,9 +27,9 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
 # 🎯 Objective #
 
 * To investigate the top performing products and countries, as well as the factors influencing performance.
-* Analyzing top 10 consumer countries. 
-* Analyzing top 10 counsumer countries orders as per categories and sub-categories.
-* Analyzing the top products of the Top 10 countries as per Coustomer Segment.
+* Analyzing top 5 consumer countries. 
+* Analyzing top 5 counsumer countries orders as per categories and sub-categories.
+* Analyzing the top products of the Top 5 countries as per Coustomer Segment.
 * Growth Over the years.
 * Show the customer segment in each market.
 * Various Analysis:
@@ -41,7 +41,7 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
     - Product Analysis etc.
     
     2. Analysis of the above entities across dimensions like :
-    - Time Hierarchy.
+    - Date Hierarchy.
     - Geographical Hierarchy.
     - Product Hierarchy etc.
     
