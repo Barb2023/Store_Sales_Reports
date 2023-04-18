@@ -128,6 +128,12 @@ SELECTOrder_ID
 
 # 🎯 My Portfolio  #
 
+You can see project samples done through out the course via my Portfolio/website.
+
+Power BI reports & SSIS report
+
+<p align="center"><img src= "https://github.com/Barb2023/Superstores/blob/main/PBI%20UK%20road.gif" alt ="trends" style='width:600px;'></p> 
+
 [Barb's Website](https://barb2023.github.io/)
 
 ---
