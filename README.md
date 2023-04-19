@@ -13,7 +13,7 @@ A superstore is a very large store often offering a wide variety of merchandise 
 As the decision maker for a superstore company, we will give some insights into what works best to understand which products, regions, categories, and customer segments they should target or avoid.
 
 We will try to find out the weak areas and see where Superstores can make more profit.
-Using the dataset, we will also do an EDA and try to build a Regression model to predict Sales or Profit.
+Using the dataset, we will also do an EDA.
 
 The dataset will include Products,Sales, Profit, Country, Region and all sales order details for reporting.
 
