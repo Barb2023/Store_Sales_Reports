@@ -116,6 +116,8 @@ SELECTOrder_ID
     * I'm using Jupyter Notebook to create a simple Visualization that will show how to answer the objectives we aimed.
     * I also used power BI to have a more interactive report that shows the objectives we want to answer.
     
+    [PowerBI pbix sample report](https://github.com/Barb2023/Superstores/blob/main/Superstore%20Data%20Viz%20final%20PBI.pbix)
+    
      <p align="center"><img src= "https://github.com/Barb2023/Super-Stores/blob/main/PowerBI.gif" alt ="trends" style='width:600px;'></p> 
 
 ---
