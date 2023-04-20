@@ -126,9 +126,14 @@ SELECTOrder_ID
 * Superstore definition: https://www.merriam-webster.com/dictionary/superstore#:~:text=%3A%20a%20very%20large%20store%20often,variety%20of%20merchandise%20for%20sale
 * Superstores/Bigbox stores by country: https://en.wikipedia.org/wiki/List_of_superstores
 
+
 # 🎯 My Portfolio  #
 
-You can see project samples done through out the course via my Portfolio/website.
+You can see project samples done through out the course via the link below and my Portfolio/website.
+
+[Guide for Data Science Pipeline](https://github.com/Barb2023/Guide-for-Data-Science-Pipelines)
+
+ <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/SGP.jpg" alt ="trends" style='width:600px;'></p> 
 
 Power BI reports & SSIS report
 
