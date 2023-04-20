@@ -138,6 +138,7 @@ You can see project samples done through out the course via the link below and m
  <p align="center"><img src= "https://github.com/Barb2023/Guide-for-Data-Science-Pipelines/blob/main/SGP.jpg" alt ="trends" style='width:600px;'></p> 
 
 Power BI reports & SSIS report
+[PowerBI UK video](https://www.youtube.com/watch?v=qZNoyg5Kho4)
 
 <p align="center"><img src= "https://github.com/Barb2023/Superstores/blob/main/PBI%20UK%20road.gif" alt ="trends" style='width:600px;'></p> 
 
