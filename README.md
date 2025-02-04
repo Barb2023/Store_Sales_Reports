@@ -20,7 +20,7 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
 ---
 # 🎯 Use #
 
-* The data will be used to help management decide which stores are performing well and which are underperforming based on sales and profits..
+* The data will be used to help management decide which stores are performing well and which are underperforming based on sales and profits.
 
 ---
 
@@ -70,7 +70,7 @@ The dataset will include Products,Sales, Profit, Country, Region and all sales o
     * I'm using Jupyter Notebook to create a simple Visualization that will show how to answer the objectives we aimed.
     * I also used power BI to have a more interactive report that shows the objectives we want to answer.
     
-    <p align="center"><img src= "https://clipchamp.com/watch/bzIDW5qlc6U" alt ="trends" style='width:600px;'></p>
+    <p align="center"><img src= "![Alt text](gifs/PowerBI%20Snipet.gif)" alt ="trends" style='width:600px;'></p>
 
     
     
